@@ -1,5 +1,7 @@
 local wezterm = require 'wezterm'
 return {
+	initial_rows = 46,
+	initial_cols = 190,
 	-- color_scheme = 'termnial.sexy',
 	color_scheme = 'Catppuccin Mocha',
 	enable_tab_bar = false,

@@ -84,7 +84,7 @@ eval "$(zoxide init zsh)"
 eval "$(starship init zsh)"
 eval $(thefuck --alias)
 # ALIASES
-alias v="nvim"
+alias vim="nvim"
 alias c="clear"
 alias :q="exit"
 alias zshrc="nvim ~/.zshrc"
