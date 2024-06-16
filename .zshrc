@@ -87,7 +87,6 @@ eval $(thefuck --alias)
 alias v="nvim"
 alias c="clear"
 alias :q="exit"
-alias rm="rip"
 alias zshrc="nvim ~/.zshrc"
 alias u="source ~/.zshrc"
 alias a="tmux attach"
